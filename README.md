@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanWillian
-- 👀 I’m interested in Java, Spring
-- 🌱 I’m currently learning Spring
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me @JuanWillian
 
