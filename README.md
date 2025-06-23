@@ -18,7 +18,6 @@ Sou um desenvolvedor fullstack. Tenho experiência com tecnologias web, mobile e
   />
 </p>
 
-<div style="clear: both;"></div>
 
 ---
 
