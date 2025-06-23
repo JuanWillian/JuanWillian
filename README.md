@@ -7,12 +7,10 @@ Sou um desenvolvedor fullstack. Tenho experiência com tecnologias web, mobile e
 
 <p align="center">
   <img
-    height="300" 
     width="340"
     src="https://github-readme-stats.vercel.app/api?username=JuanWillian&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
   <img
-    height="300"
     width="330"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWillian&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
