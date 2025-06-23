@@ -18,8 +18,9 @@ Sou um desenvolvedor fullstack. Tenho experiência com tecnologias web, mobile e
   />
 </p>
 
+<div style="clear: both;"></div>
 
----------------------------------------------
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -28,7 +29,6 @@ Sou um desenvolvedor fullstack. Tenho experiência com tecnologias web, mobile e
 <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  
 
 **Sistemas Operacionais:**  
 <img alt="Android" title="Android" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
