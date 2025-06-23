@@ -1,7 +1,7 @@
 # Juan Willian  
 #### Desenvolvedor Fullstack
 
-Sou um desenvolvedor fullstack. Tenho experiência com tecnologias web, mobile e back-end, com foco em aplicações integradas e responsivas. Atualmente desenvolvo sistemas com Java, Node.js, HTML, CSS, e banco de dados como SQLite e PostgreSQL.
+Sou um desenvolvedor fullstack. Tenho experiência com tecnologias web e mobile, com foco em aplicações integradas e responsivas. Atualmente desenvolvo sistemas com Java, Node.js, HTML, CSS, e banco de dados como SQLite e PostgreSQL.
 
 ### 📊 Estatísticas
 
