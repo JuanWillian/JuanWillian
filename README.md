@@ -18,8 +18,8 @@ Sou um desenvolvedor fullstack. Tenho experiência com tecnologias web, mobile e
   />
 </p>
 
-<br/>
----
+
+---------------------------------------------
 
 ### 🤖 Linguagens e Tecnologias
 
