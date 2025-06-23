@@ -5,7 +5,7 @@ Sou um desenvolvedor fullstack. Tenho experiência com tecnologias web, mobile e
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
     align="left" 
     height="200" 
