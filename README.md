@@ -1,7 +1,7 @@
 # Juan Willian  
 #### Estudante
 
-Sou um estudante de engenharia de software. Tenho experiência com tecnologias web e mobile, com foco em aplicações integradas e responsivas. Atualmente desenvolvo sistemas com Java, Node.js, HTML, CSS, e banco de dados como SQLite e PostgreSQL.
+Sou um estudante de engenharia de software. Tenho experiência com tecnologias web e mobile, com foco em aplicações integradas. Atualmente desenvolvo sistemas com Java, Node.js, HTML, CSS, e banco de dados como SQLite e PostgreSQL.
 
 ### 📊 Estatísticas
 
