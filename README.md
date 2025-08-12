@@ -30,7 +30,7 @@ Sou um estudante de engenharia de software. Tenho experiência com tecnologias w
 
 **Sistemas Operacionais:**  
 <img alt="Android" title="Android" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-<img alt="Ubuntu" title="Ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img alt="Ubuntu" title="Ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 <img alt="Windows" title="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 
 **Banco de Dados:**  
