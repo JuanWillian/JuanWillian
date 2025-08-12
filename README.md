@@ -30,7 +30,7 @@ Sou um estudante de engenharia de software. Tenho experiência com tecnologias w
 
 **Sistemas Operacionais:**  
 <img alt="Android" title="Android" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-<img alt="Linux" title="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img alt="Ubuntu" title="Ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <img alt="Windows" title="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 
 **Banco de Dados:**  
@@ -47,3 +47,4 @@ Sou um estudante de engenharia de software. Tenho experiência com tecnologias w
 <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img alt="Express" title="Express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 <img alt="Cordova" title="Cordova" width="40px" src="https://www.svgrepo.com/show/353603/cordova.svg" />
+
